@@ -41,7 +41,7 @@ python ubuntu_image_fetcher.py
 
 ### Example Run
 
-![Terminal Demo](terminal_demo.png)
+![python-logo](python-logo.png)
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ python ubuntu_image_fetcher.py
     Ubuntu_Requests/
     │── ubuntu_image_fetcher.py   # Main script
     │── README.md                 # Project documentation
-    │── terminal_demo.png         # Example terminal screenshot
+    │── python-logo.png           # Example terminal screenshot
     └── Fetched_Images/           # Downloaded images (auto-created)
 
 ------------------------------------------------------------------------
@@ -93,5 +93,4 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed with ❤️ and the spirit of **Ubuntu**
-# Ubuntu Requests - Image Fetcher
+Developed with ❤️ PLP - cj7code and the spirit of **Ubuntu**
