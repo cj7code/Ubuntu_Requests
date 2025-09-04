@@ -41,8 +41,7 @@ python ubuntu_image_fetcher.py
 
 ### Example Run
 
-![python-logo](python-logo.png)
-
+<img src="Fetched_Images/python-logo.png" width="200" alt="Python Logo">
 ------------------------------------------------------------------------
 
 ## 🛠️ Implementation Details
